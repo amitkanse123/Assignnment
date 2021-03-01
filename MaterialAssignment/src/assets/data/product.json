@@ -1,0 +1,148 @@
+
+[
+    {
+      "id": 1,
+      "categoryd": 1,
+      "categoryname": "electronics",
+      "productname": "earphone",
+      "description": "this is earphone",
+      "rating": 5,
+      "price": 200,
+      "reviews": 2344
+    },
+    {
+      "id": 2,
+      "categoryd": 1,
+      "categoryname": "electronics",
+      "productname": " TV",
+      "description": "LG TV",
+      "rating": 4.5,
+      "price": 10000,
+      "reviews": 5000
+    },
+    {
+      "id": 3,
+      "categoryd": 1,
+      "categoryname": "electronics",
+      "productname": " Mobile",
+      "description": "iphone",
+      "rating": 4.5,
+      "price": 3000,
+      "reviews": 11
+    },
+
+    {
+      "id": 4,
+      "categoryd": 2,
+      "categoryname": "fashion",
+      "productname": "Casual Shirt",
+      "description": "Shirt",
+      "rating": 4.5,
+      "price": 100,
+      "reviews": 200
+    },
+
+    {
+      "id": 5,
+      "categoryd": 2,
+      "categoryname": "fashion",
+      "productname": "Jeans",
+      "description": "polo jeans",
+      "rating": 4.5,
+      "price": 100,
+      "reviews": 200
+    },
+    {
+      "id": 6,
+      "categoryd": 2,
+      "categoryname": "fashion",
+      "productname": " Shirt ",
+      "description": "Polo shirt",
+      "rating": 4.5,
+      "price": 100,
+      "reviews": 200
+    },
+
+    {
+      "id": 7,
+      "categoryd": 2,
+      "categoryname": "fashion",
+      "productname": " trauser",
+      "description": "flexible Trauser",
+      "rating": 4.5,
+      "price": 50,
+      "reviews": 200
+    },
+    {
+      "id": 8,
+      "categoryd": 2,
+      "categoryname": "fashion",
+      "productname": " jacket",
+      "description": "Black and smooth jacket",
+      "rating": 4,
+      "price": 1000,
+      "reviews": 200
+    },
+    {
+      "id": 9,
+      "categoryd": 3,
+      "categoryname": "footwear",
+      "productname": " chappal",
+      "description": "chappal",
+      "rating": 4,
+      "price": 1000,
+      "reviews": 200
+    },
+    {
+      "id": 10,
+      "categoryd": 3,
+      "categoryname": "footwear",
+      "productname": " shoes",
+      "description": "shoes",
+      "rating": 4,
+      "price": 1000,
+      "reviews": 200
+    },
+    {
+      "id": 11,
+      "categoryd": 3,
+      "categoryname": "footwear",
+      "productname": " shoes 2",
+      "description": "shoe",
+      "rating": 4,
+      "price": 1000,
+      "reviews": 200
+    },
+    {
+      "id": 12,
+      "categoryd": 3,
+      "categoryname": "footwear",
+      "productname": " shoes 3",
+      "description": "shoes",
+      "rating": 5,
+      "price": 500,
+      "reviews": 2000
+    },
+
+    {
+      "id": 13,
+      "categoryd": 3,
+      "categoryname": "footwear",
+      "productname": " chappal ",
+      "description": "chappal",
+      "rating": 5,
+      "price": 500,
+      "reviews": 2000
+    },
+    {
+      "id": 14,
+      "categoryd": 1,
+      "categoryname": "electronics",
+      "productname": "redmi Mobile",
+      "description": "redmi bhanagaar mobile",
+      "rating": 4.5,
+      "price": 1000,
+      "reviews": 11
+    }
+  ]
+
